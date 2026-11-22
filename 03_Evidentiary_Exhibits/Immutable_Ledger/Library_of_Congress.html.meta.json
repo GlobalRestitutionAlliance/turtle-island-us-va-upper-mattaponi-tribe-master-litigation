@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/",
+  "final_url": "https://www.loc.gov/",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 75819,
+  "sha256": "954e885a8a94a297bfad4f39decbc776a07bbec9253527ed3295f17931b3652b",
+  "captured_at": "2026-11-22T17:01:36.846795Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
