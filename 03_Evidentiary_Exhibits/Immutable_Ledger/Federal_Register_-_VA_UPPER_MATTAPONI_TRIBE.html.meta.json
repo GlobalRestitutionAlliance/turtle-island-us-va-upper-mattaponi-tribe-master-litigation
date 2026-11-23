@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=VA+UPPER+MATTAPONI+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=VA+UPPER+MATTAPONI+TRIBE",
+  "title": "Federal Register - VA UPPER MATTAPONI TRIBE",
+  "fetched_at": "2026-11-23T17:37:00.090431Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 191342,
+  "sha256": "55c1cc9cba136cc8982c1c4cbcd2fe2648a80918c42e39a6f7e5dc915f1613a6",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
